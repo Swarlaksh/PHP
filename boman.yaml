@@ -1,5 +1,9 @@
 Auth:
-  project_token: 5156223b-a89a-4567-bb66-bd71d097fafa
-  customer_token: 4b36ce06-05a1-43f9-a0e9-0c98a26594fa
+  project_token: b3eb7e8a-d2e4-462d-b058-0e27ee08f747
+  customer_token: df0d4185-7142-4ce1-999e-25eb8a76e80a
 SAST:
   language: php
+SCA:
+  language: php
+Secret_Scan: true
+
