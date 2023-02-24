@@ -5,6 +5,6 @@ SAST:
   language: php-snyk-sast
 SCA:
   language: php-snyk-sca
- secret = true
+ Secret_Scan: true
 
 
